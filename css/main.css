@@ -42,3 +42,37 @@ body {
 .logo img {
   margin-right: 25px;
 }
+
+.post {
+  border: black;
+  border-style: solid;
+  border-width:1px;
+  width: 800px;
+  margin:50px;
+  padding:10px;
+  display:block;
+}
+
+.post-info{
+  display:flex;
+  height:20px;
+  color:grey;
+  font-size:15px;
+  width:500px;
+}
+
+.post-info p{
+  margin-top:2px;
+}
+.post-info img {
+  height:20px;
+  margin-right:5px;
+}
+
+.post-title{
+  margin-top:15px;
+}
+
+.interaction{
+  margin-right:50px;
+}
